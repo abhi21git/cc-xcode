@@ -1,0 +1,19 @@
+{
+  "name": "cc-xcode",
+  "version": "1.0.1",
+  "description": "Xcode inside Claude Code: one side panel with Build, Run, Tests, SwiftUI Preview and a live, tappable Simulator, plus a scheme and destination band above the prompt. Over Xcode's headless MCP server. Open it with /xcode.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Abhishek Maurya"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-mod",
+    "xcode",
+    "ios",
+    "swiftui",
+    "simulator",
+    "mcp"
+  ]
+}

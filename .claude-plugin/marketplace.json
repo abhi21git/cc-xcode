@@ -1,0 +1,11 @@
+{
+  "name": "cc-xcode",
+  "owner": { "name": "Abhishek Maurya" },
+  "plugins": [
+    {
+      "name": "cc-xcode",
+      "source": "./",
+      "description": "Xcode inside Claude Code: Build, Run, Tests, SwiftUI Preview and a live Simulator in one side panel. Open it with /xcode."
+    }
+  ]
+}
